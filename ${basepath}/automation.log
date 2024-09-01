@@ -1,0 +1,616 @@
+13.23.53.0717 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.23.54.0931 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.23.55.0163 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.23.57.0401 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.24.00.0050 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.24.00.0050 [main] INFO  Test_Cases.TC_001 - Product code verification
+2024-08-237 13:24:59 [main] INFO  Test_Cases.TC_001 - Test case running started
+2024-08-237 13:25:01 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+2024-08-237 13:25:01 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+2024-08-237 13:25:04 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+2024-08-237 13:25:08 [main] INFO  Test_Cases.TC_001 - UIN number verification
+2024-08-237 13:25:08 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.27.28.0906 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.27.30.0134 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.27.30.0353 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.27.32.0874 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.27.35.0125 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.27.35.0126 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.28.17.0090 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.28.24.0011 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.28.24.0212 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.28.24.0338 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.28.45.0602 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.28.46.0812 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.28.46.0996 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.28.49.0488 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.28.52.0178 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.28.52.0178 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.30.14.0109 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.30.15.0452 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.30.15.0618 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.30.17.0465 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.30.19.0577 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.30.19.0578 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.31.15.0701 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.31.17.0104 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.31.17.0334 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.31.19.0205 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.31.21.0567 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.31.21.0567 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.32.37.0981 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.32.39.0166 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.32.39.0352 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.32.41.0816 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.32.45.0391 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.32.45.0392 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.43.00.0333 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.43.01.0684 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.43.01.0858 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.43.03.0854 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.43.06.0030 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.43.06.0030 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.43.31.0704 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.43.32.0905 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.43.33.0122 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.43.35.0137 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.43.37.0794 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.43.37.0795 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.44.32.0937 [main] INFO  Test_Cases.TC_001 - Test case running started
+13.44.34.0289 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+13.44.34.0487 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+13.44.36.0396 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+13.44.40.0178 [main] INFO  Test_Cases.TC_001 - UIN number verification
+13.44.40.0179 [main] INFO  Test_Cases.TC_001 - Product code verification
+13.44.40.0179 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.24.0782 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.25.0174 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.25.0363 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.27.0996 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.30.0198 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.30.0198 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.30.0198 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.30.0523 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.30.0680 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.30.0884 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.32.0678 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.34.0732 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.34.0732 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.34.0732 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.34.0982 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.35.0144 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.35.0333 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.37.0927 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.40.0292 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.40.0293 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.40.0293 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.40.0570 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.40.0724 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.40.0948 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.42.0816 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.45.0198 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.45.0198 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.45.0198 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.45.0508 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.45.0656 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.45.0849 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.47.0562 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.49.0903 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.49.0903 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.49.0903 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.50.0148 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.50.0300 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.50.0484 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.52.0361 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.54.0443 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.54.0444 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.54.0444 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.54.0738 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.54.0885 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.55.0080 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.21.56.0992 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.21.59.0207 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.21.59.0207 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.21.59.0208 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.21.59.0512 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.21.59.0676 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.21.59.0892 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.22.01.0524 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.24.58.0013 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.24.58.0233 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.24.58.0481 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.25.00.0274 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.25.02.0646 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.25.02.0646 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.25.02.0646 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.25.02.0974 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.25.03.0141 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.25.03.0334 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.25.05.0224 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.25.15.0613 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.25.15.0777 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.25.15.0927 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.25.40.0357 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.25.42.0529 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.25.42.0529 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.25.42.0529 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.25.42.0855 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.25.43.0019 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.25.43.0254 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.28.07.0660 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.28.07.0913 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.28.08.0089 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.28.10.0152 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.28.12.0649 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.28.12.0649 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.28.12.0649 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.28.15.0884 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.28.16.0077 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.28.16.0245 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.28.18.0387 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.28.28.0797 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.28.28.0960 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.28.34.0627 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.28.34.0796 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.28.34.0967 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.31.09.0183 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.31.09.0408 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.31.09.0581 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.31.11.0677 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.31.14.0059 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.31.14.0060 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.31.14.0060 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.31.16.0059 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.31.16.0238 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.31.16.0441 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.31.18.0197 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.31.20.0498 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.31.20.0498 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.31.20.0498 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.31.22.0476 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.31.22.0641 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.31.22.0823 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.31.24.0581 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.31.26.0751 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.31.26.0751 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.31.26.0751 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.31.28.0788 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.31.28.0943 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.31.29.0186 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.33.09.0435 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.33.09.0676 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.33.09.0864 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.33.12.0197 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.33.14.0820 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.33.16.0834 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.33.16.0834 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.33.19.0724 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.33.19.0897 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.33.20.0112 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.33.22.0713 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.33.25.0515 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.33.27.0531 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.33.27.0531 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.33.30.0886 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.33.31.0051 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.33.31.0218 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.33.33.0394 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.33.36.0127 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.33.38.0128 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.33.38.0128 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.33.40.0907 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.33.41.0124 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.33.41.0294 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.34.56.0650 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.34.56.0927 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.34.57.0115 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.34.59.0119 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.35.01.0532 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.35.03.0539 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.35.03.0539 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.35.05.0313 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.35.05.0986 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.35.06.0166 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.35.07.0979 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.35.10.0434 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.35.12.0440 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.35.12.0440 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.35.13.0984 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.35.14.0588 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.35.14.0816 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.35.17.0253 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.35.19.0470 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.35.21.0487 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.35.21.0984 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.35.22.0143 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.35.22.0370 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.36.18.0224 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.36.20.0957 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.36.21.0156 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.36.23.0373 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.36.25.0933 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.36.27.0945 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.36.27.0945 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.36.31.0235 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.36.31.0839 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.36.32.0063 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.36.34.0403 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.36.37.0127 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.36.39.0136 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.36.39.0136 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.36.41.0183 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.36.41.0763 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.36.41.0964 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.36.44.0144 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.36.46.0706 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.36.48.0717 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.36.48.0717 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.36.50.0769 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.36.51.0591 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.36.51.0765 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.37.59.0102 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.37.59.0368 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.37.59.0571 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.38.02.0043 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.38.04.0711 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.38.06.0723 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.38.06.0723 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.38.08.0503 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.38.09.0229 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.38.09.0388 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.38.11.0651 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.38.14.0453 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.38.16.0458 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.38.16.0458 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.38.19.0478 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.38.20.0040 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.38.20.0240 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.38.22.0381 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.38.24.0984 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.38.26.0994 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.38.26.0994 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+16.38.29.0024 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.38.29.0606 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.38.29.0772 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.45.53.0159 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.45.53.0455 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.45.53.0665 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.46.33.0013 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.46.33.0259 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.46.33.0475 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.48.03.0493 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.48.03.0845 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.48.04.0066 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.49.14.0365 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.49.14.0654 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.49.14.0826 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.50.28.0981 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.50.33.0654 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.50.33.0928 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.50.36.0140 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.51.27.0639 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.51.27.0885 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.51.28.0153 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.52.34.0964 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.52.35.0299 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.52.35.0518 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.55.10.0457 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.55.10.0764 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.55.10.0984 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.56.05.0924 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.56.06.0275 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.56.06.0463 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.00.20.0835 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.00.21.0131 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.00.21.0302 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.01.33.0054 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.01.33.0326 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.01.33.0501 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.01.36.0003 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.02.33.0892 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.02.34.0280 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.02.34.0437 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.04.31.0487 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.04.31.0785 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.04.32.0008 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.40.0625 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.40.0848 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.41.0023 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.43.0309 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.05.53.0793 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.53.0949 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.54.0105 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.54.0418 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.54.0574 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.54.0730 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.55.0011 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.55.0183 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.55.0355 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.55.0652 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.55.0824 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.55.0996 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.56.0292 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.56.0449 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.56.0605 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.56.0870 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.57.0027 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.57.0183 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.05.57.0495 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.05.57.0651 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.05.57.0808 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.19.53.0489 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.19.53.0727 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.19.53.0897 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.19.56.0119 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.20.06.0509 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.06.0675 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.12.0390 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.12.0558 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.12.0771 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.13.0127 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.13.0278 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.13.0433 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.13.0737 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.13.0884 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.14.0039 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.14.0382 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.14.0570 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.14.0741 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.15.0077 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.15.0238 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.15.0393 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.15.0704 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.15.0864 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.16.0017 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.34.0981 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.35.0268 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.35.0437 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.37.0677 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.20.48.0163 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.48.0332 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.48.0500 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.48.0832 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.48.0997 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.49.0176 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.49.0515 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.49.0677 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.49.0844 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.50.0182 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.50.0353 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.56.0079 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.56.0250 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.56.0407 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.56.0735 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.56.0891 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.57.0047 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.20.57.0391 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.20.57.0547 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.20.57.0703 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.22.38.0130 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.22.38.0365 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.22.38.0540 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.22.40.0561 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.22.42.0897 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.22.42.0897 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.22.42.0897 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.22.53.0288 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.23.13.0658 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.23.33.0974 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.23.54.0355 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.24.27.0687 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.24.27.0931 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.24.28.0123 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.28.12.0170 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.28.12.0558 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.28.12.0726 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.29.21.0183 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.29.21.0523 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.29.21.0742 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.29.49.0105 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.29.49.0396 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.29.49.0615 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.31.07.0823 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.31.11.0779 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.31.11.0950 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.31.22.0367 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.31.22.0528 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.31.22.0696 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.32.45.0024 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.32.45.0260 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.32.45.0431 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.32.55.0859 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.32.56.0026 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.32.56.0206 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.34.02.0081 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.34.02.0312 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.34.02.0473 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.34.04.0683 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.34.11.0698 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.35.19.0937 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.35.23.0821 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.35.24.0014 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.35.26.0126 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.35.36.0600 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.35.36.0772 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.35.36.0944 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.36.35.0749 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.36.36.0095 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.36.36.0344 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.37.17.0127 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.37.17.0361 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.37.17.0547 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.37.19.0504 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.37.22.0112 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.37.22.0113 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.37.22.0113 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.37.37.0944 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.38.38.0590 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.38.38.0848 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.38.39.0058 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.38.39.0396 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.38.39.0554 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.38.39.0755 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.39.47.0538 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.39.47.0910 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.39.48.0095 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.39.51.0347 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.41.24.0896 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.41.26.0083 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.41.26.0286 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.41.28.0459 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.41.31.0064 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.41.31.0065 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.41.31.0065 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.42.41.0978 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.42.43.0297 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.42.43.0502 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.42.45.0441 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.42.47.0736 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.42.47.0737 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.42.47.0737 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.46.17.0348 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.46.18.0851 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.46.19.0067 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.46.21.0248 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.46.24.0038 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.46.24.0038 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.46.24.0038 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.47.04.0234 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.47.05.0477 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.47.05.0695 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.47.08.0077 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.47.10.0604 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.47.10.0604 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.47.10.0604 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.47.50.0536 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.47.51.0776 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.47.51.0978 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.47.53.0980 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.47.56.0188 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.47.56.0189 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.47.56.0189 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.48.47.0982 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.48.49.0135 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.48.49.0356 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.48.51.0531 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.48.54.0079 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.48.54.0079 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.48.54.0080 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+17.55.27.0399 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.55.28.0545 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.55.28.0747 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.55.31.0127 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.55.33.0993 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.55.33.0993 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.55.33.0993 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+18.00.42.0588 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.00.43.0810 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.00.43.0982 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.00.46.0178 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.00.48.0734 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.00.48.0734 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.00.48.0734 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+18.01.47.0154 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.01.48.0327 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.01.48.0591 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.01.50.0507 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.01.52.0851 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.01.52.0851 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.01.52.0851 [main] INFO  Test_Cases.TC_001 - Test case execution ended
+20.51.11.0352 [main] INFO  Test_Cases.TC_001 - Test case running started
+20.51.12.0548 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+20.51.12.0776 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+20.51.14.0425 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+20.53.08.0096 [main] INFO  Test_Cases.TC_001 - Test case running started
+20.53.09.0347 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+20.53.09.0519 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+20.53.11.0506 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+20.56.48.0002 [main] INFO  Test_Cases.TC_001 - Test case running started
+20.56.49.0234 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+20.56.49.0423 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+20.56.51.0437 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+20.56.53.0615 [main] INFO  Test_Cases.TC_001 - UIN number verification
+20.56.53.0615 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.02.09.0444 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.02.10.0667 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.02.10.0885 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.02.13.0102 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.02.15.0385 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.02.15.0386 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.06.07.0992 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.06.09.0258 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.06.09.0476 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.06.11.0674 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.06.14.0090 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.06.14.0091 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.06.51.0981 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.06.53.0229 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.06.53.0462 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.06.55.0613 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.06.58.0959 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.06.58.0959 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.08.11.0257 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.08.12.0634 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.08.12.0837 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.08.15.0277 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.08.17.0812 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.08.17.0812 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.08.57.0195 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.09.22.0667 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.09.23.0153 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.09.23.0365 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.09.25.0833 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.09.29.0413 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.09.29.0418 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.12.54.0788 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.12.56.0115 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.12.56.0333 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.12.58.0234 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.13.00.0691 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.13.00.0691 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.14.56.0400 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.14.57.0711 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.14.57.0887 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.15.00.0652 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.15.04.0122 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.15.04.0123 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.17.42.0159 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.17.43.0462 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.17.43.0629 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.17.45.0603 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.17.48.0060 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.17.48.0060 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.19.11.0110 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.19.12.0368 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.19.12.0558 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.19.14.0605 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.19.17.0462 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.19.17.0462 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.21.43.0780 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.21.45.0059 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.21.45.0239 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.21.47.0955 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.21.51.0189 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.21.51.0189 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.24.22.0969 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.24.28.0900 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.24.29.0072 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.24.31.0493 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.24.33.0780 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.24.33.0780 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.25.41.0254 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.25.42.0654 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.31.21.0454 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.31.26.0308 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.34.15.0589 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.34.16.0821 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.34.16.0991 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.34.19.0897 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.34.22.0267 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.34.22.0267 [main] INFO  Test_Cases.TC_001 - Product code verification
+21.36.22.0321 [main] INFO  Test_Cases.TC_001 - Test case running started
+21.36.23.0482 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+21.36.23.0681 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+21.36.26.0087 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+21.36.28.0392 [main] INFO  Test_Cases.TC_001 - UIN number verification
+21.36.28.0392 [main] INFO  Test_Cases.TC_001 - Product code verification
