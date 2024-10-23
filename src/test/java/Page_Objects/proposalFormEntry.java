@@ -13,65 +13,128 @@ public class proposalFormEntry extends mainconstructor {
 		super(driver);
 	}
 	
-	@FindBy(xpath="//input[@id='pName']")
+	@FindBy(xpath="//p[text()='Name:']")
+	private WebElement name;
+	
+	public WebElement nameScroll()
+	{
+		return name;
+	}
+	
+	@FindBy(xpath="//input[@id='proposerName']")
 	private WebElement firstname;
 	
-	public void First_Name()
+	public void First_Name(String value)
 	{
-		firstname.sendKeys("Om");
+		firstname.sendKeys(value);
 	}
 	
-	@FindBy(xpath="//input[@id='birthDate3']")
+	@FindBy(xpath="//input[@id='birthDate2']")
 	private WebElement DOB;
 	
-	public void Date_Birth()
+	public void Date_Birth(String dob)
 	{
-		DOB.sendKeys("16/04/1998");
+		DOB.sendKeys(dob);
 	}
 	
-	public void Gender(String key)     ////input[@value="Third Gender"]
+	public void Gender(WebDriver driver,String key)     ////input[@value="Third Gender"]
 	{
-		WebElement ele = driver.findElement(By.xpath("//input[@value="+key+"]"));
+		WebElement ele = driver.findElement(By.xpath("//input[@id='imp-"+key+"']"));
 		ele.click();
 	}
 	
-	public void discount(String key)   ////input[@value="Non-Staff"]
+	public void staffAndNonStaff(WebDriver driver,String key)   //input[@value="Non-Staff"]
 	{
-		WebElement ele1 = driver.findElement(By.xpath("//input[@value="+key+"]"));
+		WebElement ele1 = driver.findElement(By.xpath("//input[@id='imp-"+key+"']"));
 		ele1.click();
 	}
 	
-	public void PPT(String key)
+	@FindBy(xpath="//p[text()='Policy Term']")
+	private WebElement PT;
+	
+	public WebElement policyTermScoll()
 	{
-		WebElement ele1 = driver.findElement(By.xpath("(//div[@class='slider-tick-container'])[1]//div["+key+"]"));
-		ele1.click();
+		return PT;
+	}
+	@FindBy(xpath="(//div[@class='tooltip tooltip-main bottom in']//div)[2]")
+	private WebElement policyTermValue;
+	
+	public WebElement policyTermValueMatch()
+	{
+		return policyTermValue;
 	}
 	
-	public void PremiumFrequency(String key)
+	@FindBy(xpath="(//div[@class='slider-handle min-slider-handle round'])[1]")
+	private WebElement policyTerm;
+	
+	public WebElement policyTermSlider()
 	{
-		WebElement ele1 = driver.findElement(By.xpath("(//div[@class='slider-tick-container'])[2]//div["+key+"]"));
-		ele1.click();
+		return policyTerm;
 	}
 	
-	@FindBy(xpath="//input[@id=\"prmAmtVal\"]")
-	private WebElement premiumamount;
+	@FindBy(xpath="(//div[@class='slider-handle min-slider-handle round'])[2]")
+	private WebElement sliderPremiumFrequency;
 	
-	public void Premium_Amount()
+	public WebElement premiumFrequencySlider()
 	{
-		premiumamount.sendKeys("250000");
+		return sliderPremiumFrequency;
 	}
 	
-	@FindBy(xpath="//input[@id=\"sumAssurVal\"]")  // to verify same premium amount is displayed in sum assured
+	public WebElement PremiumFrequency(WebDriver driver,String key)
+	{
+		WebElement Frequencyvalue = driver.findElement(By.xpath("//div[normalize-space()='"+key+"']"));
+		return Frequencyvalue;
+	}
+	
+	public void planOptions(WebDriver driver,String key)
+	{
+		WebElement optn = driver.findElement(By.xpath("//input[@value='"+key+"']"));
+		optn.click();
+	}
+	
+	@FindBy(xpath="//input[@id='inputValueSumAssured']")  // to verify same premium amount is displayed in sum assured
 	private WebElement sumAssured;
 	
-	public String Sum_Assured()
+	public WebElement Sum_Assured()
 	{
-		return sumAssured.getText();
+		return sumAssured;
 	}
 	
-	public void riderCheckbox(String key)
+	public void riderCheckbox(WebDriver driver,String key)
 	{
 		WebElement ele = driver.findElement(By.xpath("(//input[@class=\"rider-checkbox\"])["+key+"]"));
 		ele.click();
+	}
+	
+	@FindBy(xpath="(//div[@class='slider-block-row slider-block-row-mobile']//h3//span)[1]")
+	private WebElement riderScroll;
+	
+	public WebElement riderScrollView()
+	{
+		return riderScroll;
+	}
+	
+	@FindBy(xpath="//button[text()='Calculate']")
+	private WebElement calculate;
+	
+	public void calculate_Btn()
+	{
+		calculate.click();
+	}
+	
+	@FindBy(xpath="//div[@id='errorModal']//button[@type='button'][normalize-space()='Close']")
+	private WebElement close;
+	
+	public WebElement close_btn()
+	{
+		return close;
+	}
+	
+	@FindBy(xpath="//span[@id='nv_js-leadform-close-button_3481']")
+	private WebElement cls;
+	
+	public WebElement close_popup()
+	{
+		return cls;
 	}
 }

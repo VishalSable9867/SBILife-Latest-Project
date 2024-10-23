@@ -614,3 +614,609 @@
 21.36.26.0087 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
 21.36.28.0392 [main] INFO  Test_Cases.TC_001 - UIN number verification
 21.36.28.0392 [main] INFO  Test_Cases.TC_001 - Product code verification
+15.34.11.0001 [main] INFO  Test_Cases.TC_001 - Test case running started
+15.34.12.0342 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+15.34.12.0543 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+15.34.14.0677 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+15.34.17.0287 [main] INFO  Test_Cases.TC_001 - UIN number verification
+15.34.17.0287 [main] INFO  Test_Cases.TC_001 - Product code verification
+15.42.01.0459 [main] INFO  Test_Cases.TC_001 - Test case running started
+15.42.02.0822 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+15.42.03.0043 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+15.42.05.0919 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+15.42.13.0540 [main] INFO  Test_Cases.TC_001 - UIN number verification
+15.42.13.0540 [main] INFO  Test_Cases.TC_001 - Product code verification
+15.42.13.0568 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+15.42.13.0680 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+15.42.13.0781 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+15.46.56.0139 [main] INFO  Test_Cases.TC_001 - Test case running started
+15.46.57.0405 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+15.46.57.0605 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+15.46.59.0737 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+15.47.02.0410 [main] INFO  Test_Cases.TC_001 - UIN number verification
+15.47.02.0410 [main] INFO  Test_Cases.TC_001 - Product code verification
+15.47.02.0438 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+15.47.02.0579 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+15.47.02.0703 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+15.51.28.0762 [main] INFO  Test_Cases.TC_001 - Test case running started
+15.51.30.0108 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+15.51.30.0315 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+15.51.32.0501 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+15.51.34.0856 [main] INFO  Test_Cases.TC_001 - UIN number verification
+15.51.34.0856 [main] INFO  Test_Cases.TC_001 - Product code verification
+15.51.34.0888 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+15.51.35.0033 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+15.51.35.0157 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+15.51.35.0228 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+15.51.35.0303 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.01.18.0712 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.01.20.0067 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.01.20.0282 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.01.22.0631 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.01.25.0156 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.01.25.0157 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.01.25.0181 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.01.25.0288 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.01.25.0388 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.01.25.0483 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.01.25.0598 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.02.49.0144 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.02.50.0552 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.02.50.0732 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.02.53.0423 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.02.55.0930 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.02.55.0930 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.02.55.0955 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.02.56.0080 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.02.56.0202 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.02.56.0278 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.02.56.0371 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.03.41.0634 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.03.43.0014 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.03.43.0217 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.03.45.0454 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.03.48.0320 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.03.48.0320 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.03.48.0362 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.03.48.0497 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.03.48.0609 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.03.48.0681 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.03.48.0758 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.26.51.0707 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.26.53.0038 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.26.53.0255 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.26.55.0184 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.26.57.0389 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.26.57.0389 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.26.57.0418 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.26.57.0521 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.26.57.0660 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.26.57.0728 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.26.57.0808 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.45.15.0400 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.45.16.0754 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.45.16.0943 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.45.18.0864 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.45.21.0552 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.45.21.0553 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.45.21.0594 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.45.21.0705 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.45.21.0814 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.45.21.0948 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.45.22.0048 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.45.33.0726 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+16.45.33.0783 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+16.48.42.0868 [main] INFO  Test_Cases.TC_001 - Test case running started
+16.48.44.0092 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+16.48.44.0340 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+16.48.46.0428 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+16.48.48.0923 [main] INFO  Test_Cases.TC_001 - UIN number verification
+16.48.48.0923 [main] INFO  Test_Cases.TC_001 - Product code verification
+16.48.48.0946 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+16.48.49.0051 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+16.48.49.0200 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+16.48.49.0266 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+16.48.49.0326 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+16.49.00.0817 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+16.49.00.0943 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.30.54.0869 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.30.56.0155 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.30.56.0312 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.31.00.0296 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.31.04.0073 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.31.04.0073 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.31.04.0096 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.31.04.0209 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.31.04.0308 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.31.04.0383 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.31.04.0480 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.31.15.0881 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.31.15.0938 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.31.16.0262 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.31.16.0367 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.31.17.0038 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.36.02.0571 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.36.03.0891 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.36.04.0087 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.36.07.0579 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.36.10.0473 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.36.10.0474 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.36.10.0520 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.36.10.0621 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.36.10.0741 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.36.10.0811 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.36.10.0895 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.36.22.0605 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.36.22.0668 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.36.22.0981 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.36.23.0088 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.36.23.0499 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.36.23.0799 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+17.38.21.0299 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.38.22.0670 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.38.22.0947 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.38.38.0170 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.38.49.0080 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.38.49.0080 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.38.49.0102 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.38.49.0206 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.38.49.0312 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.38.49.0386 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.38.49.0471 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.39.01.0151 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.39.01.0217 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.39.01.0555 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.39.01.0657 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.39.02.0123 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.39.02.0346 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+17.41.55.0369 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.41.56.0605 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.41.56.0778 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.41.59.0679 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.42.03.0943 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.42.03.0944 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.42.03.0970 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.42.04.0093 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.42.04.0209 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.42.04.0292 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.42.04.0375 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.42.16.0027 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.42.16.0126 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.42.16.0498 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.42.16.0618 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.42.17.0034 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.42.17.0298 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+17.44.57.0404 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.44.57.0763 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.44.58.0945 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.45.05.0629 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.45.12.0677 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.45.12.0677 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.45.12.0702 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.45.12.0801 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.45.12.0915 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.45.13.0008 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.45.13.0095 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.45.24.0931 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.45.25.0038 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.45.30.0397 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.45.30.0505 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.45.30.0851 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.47.00.0187 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.47.02.0028 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.47.02.0207 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.47.05.0122 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.47.08.0911 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.47.08.0911 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.47.08.0936 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.47.09.0051 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.47.09.0140 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.47.09.0268 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.47.09.0383 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.47.20.0627 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.47.20.0698 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.47.26.0039 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.47.26.0186 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.47.26.0667 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.47.26.0942 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+17.57.40.0221 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.57.41.0434 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.57.41.0680 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.57.44.0159 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.57.47.0608 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.57.47.0608 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.57.47.0632 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.57.47.0736 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.57.47.0860 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.57.47.0930 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.57.48.0028 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.57.59.0709 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.57.59.0779 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.58.05.0095 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.58.05.0120 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.58.05.0853 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+17.58.06.0076 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+17.58.44.0069 [main] INFO  Test_Cases.TC_001 - Test case running started
+17.58.45.0371 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+17.58.45.0553 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+17.58.48.0194 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+17.58.50.0856 [main] INFO  Test_Cases.TC_001 - UIN number verification
+17.58.50.0856 [main] INFO  Test_Cases.TC_001 - Product code verification
+17.58.50.0884 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+17.58.51.0003 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+17.58.51.0106 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+17.58.51.0263 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+17.58.51.0356 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+17.59.02.0715 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+17.59.02.0807 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+17.59.08.0173 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+17.59.13.0199 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+17.59.13.0481 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.00.07.0911 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.00.09.0255 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.00.09.0472 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.00.12.0929 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.00.15.0057 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.00.15.0057 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.00.15.0083 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.00.15.0194 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.00.15.0295 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.00.15.0367 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.00.15.0451 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.00.26.0757 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.00.26.0843 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.00.32.0199 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.00.37.0228 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.00.37.0677 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.02.46.0158 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.02.47.0443 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.02.47.0666 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.02.49.0663 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.02.52.0429 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.02.52.0429 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.02.52.0457 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.02.52.0568 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.02.52.0714 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.02.52.0783 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.02.52.0847 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.03.02.0153 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.03.02.0240 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.03.07.0577 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.03.12.0625 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.03.12.0896 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.03.13.0201 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.04.00.0979 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.04.02.0306 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.04.02.0495 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.04.04.0925 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.04.08.0025 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.04.08.0025 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.04.08.0051 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.04.08.0167 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.04.08.0264 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.04.08.0334 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.04.08.0413 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.04.17.0585 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.04.17.0642 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.04.22.0989 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.04.28.0023 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.04.29.0528 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.04.29.0834 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.05.10.0605 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.05.11.0998 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.05.12.0178 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.05.16.0169 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.05.19.0028 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.05.19.0028 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.05.19.0053 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.05.19.0167 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.05.19.0295 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.05.19.0361 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.05.19.0420 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.05.28.0562 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.05.28.0691 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.05.34.0040 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.05.39.0089 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.05.39.0589 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.05.39.0892 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.07.17.0005 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.07.18.0280 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.07.18.0472 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.07.22.0027 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.07.24.0588 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.07.24.0588 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.07.24.0617 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.07.24.0729 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.07.24.0872 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.07.24.0937 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.07.24.0999 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.07.34.0121 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.07.34.0181 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.07.39.0510 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.07.44.0545 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.07.52.0977 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.07.53.0251 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.52.31.0209 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.52.32.0662 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.52.32.0849 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.52.35.0981 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.52.38.0985 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.52.38.0985 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.52.39.0018 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.52.39.0114 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.52.39.0200 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.52.39.0296 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.52.39.0385 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.52.48.0662 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.52.48.0766 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.52.54.0102 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.52.59.0149 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.52.59.0605 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.53.09.0287 [main] INFO  Test_Cases.TC_001 - **************Close Suggestion pop up****************
+18.53.09.0323 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.53.31.0490 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.53.32.0805 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.53.32.0989 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.53.34.0879 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.53.37.0075 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.53.37.0075 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.53.37.0099 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.53.37.0199 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.53.37.0310 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.53.37.0433 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.53.37.0497 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.54.01.0846 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.54.03.0318 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.54.03.0486 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.54.06.0706 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.54.09.0511 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.54.09.0512 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.54.09.0543 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.54.09.0683 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.54.09.0813 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.54.09.0881 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.54.09.0948 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.54.19.0057 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.54.19.0126 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.54.24.0448 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.54.29.0481 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.54.29.0714 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.54.40.0015 [main] INFO  Test_Cases.TC_001 - **************Close Suggestion pop up****************
+18.54.40.0049 [main] INFO  Test_Cases.TC_001 - **************Close btn click****************
+18.55.56.0332 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.55.57.0739 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.55.57.0891 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.56.00.0240 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.56.03.0096 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.56.03.0096 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.56.03.0121 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.56.03.0234 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.56.03.0393 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.56.03.0479 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.56.03.0549 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.56.12.0799 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.56.12.0852 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.56.18.0192 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.56.23.0237 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.56.23.0568 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+18.56.23.0631 [main] INFO  Test_Cases.TC_001 - **************Close btn up****************
+18.56.33.0293 [main] INFO  Test_Cases.TC_001 - **************Close Suggestion pop up****************
+18.57.07.0534 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.57.08.0824 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.57.09.0008 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.57.11.0239 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.57.13.0795 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.57.13.0795 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.57.13.0821 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.57.13.0938 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.57.14.0056 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.57.14.0148 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.57.14.0250 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.57.23.0397 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.57.23.0463 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.57.28.0815 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.58.10.0583 [main] INFO  Test_Cases.TC_001 - Test case running started
+18.58.12.0010 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+18.58.12.0223 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+18.58.14.0027 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+18.58.16.0586 [main] INFO  Test_Cases.TC_001 - UIN number verification
+18.58.16.0586 [main] INFO  Test_Cases.TC_001 - Product code verification
+18.58.16.0612 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+18.58.16.0745 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+18.58.16.0859 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+18.58.16.0922 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+18.58.16.0983 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+18.58.25.0998 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+18.58.26.0071 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+18.58.31.0420 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+18.58.31.0442 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+18.58.33.0653 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.00.44.0038 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.00.45.0307 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.00.45.0496 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.00.48.0293 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.00.51.0605 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.00.51.0606 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.00.51.0629 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.00.51.0742 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.00.51.0846 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.00.51.0912 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.00.52.0014 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.01.01.0411 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.01.01.0469 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.01.06.0801 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.01.06.0836 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.01.07.0158 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.06.11.0324 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.06.12.0651 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.06.12.0846 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.06.14.0853 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.06.16.0966 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.06.16.0966 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.06.16.0992 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.06.17.0107 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.06.17.0234 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.06.17.0300 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.06.17.0362 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.06.26.0504 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.06.26.0604 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.06.31.0952 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.06.31.0973 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.06.32.0254 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.08.36.0765 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.08.38.0190 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.08.38.0343 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.08.40.0434 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.08.42.0564 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.08.42.0564 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.08.42.0590 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.08.42.0699 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.08.42.0853 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.08.42.0921 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.08.42.0985 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.08.52.0098 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.08.52.0172 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.08.57.0508 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.09.02.0538 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.09.04.0780 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.09.30.0608 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.09.32.0079 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.09.32.0265 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.09.34.0354 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.09.36.0999 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.09.36.0999 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.09.37.0024 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.09.37.0136 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.09.37.0233 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.09.37.0309 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.09.37.0401 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.09.46.0680 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.09.46.0810 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.09.52.0144 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.09.57.0189 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.09.57.0455 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.10.37.0843 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.10.39.0178 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.10.39.0368 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.10.41.0250 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.10.43.0515 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.10.43.0515 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.10.43.0546 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.10.43.0702 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.10.43.0804 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.10.43.0867 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.10.43.0927 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.10.53.0071 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.10.53.0147 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.10.58.0472 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.11.03.0508 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.11.03.0759 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.15.17.0348 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.15.18.0825 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.15.19.0074 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.15.21.0981 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.15.26.0083 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.15.26.0083 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.15.26.0131 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.15.26.0226 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.15.26.0330 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.15.26.0401 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.15.26.0500 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.15.35.0535 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.15.35.0599 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.15.40.0940 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.15.46.0070 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.15.46.0471 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.16.31.0227 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.16.32.0492 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.16.32.0674 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.16.34.0674 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.16.37.0001 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.16.37.0001 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.16.37.0025 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.16.37.0143 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.16.37.0272 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.16.37.0339 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.16.37.0404 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.16.46.0710 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.16.46.0853 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.16.52.0191 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.16.57.0309 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.16.57.0636 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.33.11.0632 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.33.13.0041 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.33.13.0220 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.33.15.0069 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.33.17.0181 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.33.17.0181 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.33.17.0209 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.33.17.0322 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.33.17.0486 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.33.17.0593 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.33.17.0670 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.33.26.0693 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.33.26.0757 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.33.32.0099 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.33.37.0146 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+19.33.38.0401 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************
+19.37.06.0290 [main] INFO  Test_Cases.TC_001 - Test case running started
+19.37.07.0875 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+19.37.08.0104 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+19.37.09.0956 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+19.37.12.0245 [main] INFO  Test_Cases.TC_001 - UIN number verification
+19.37.12.0245 [main] INFO  Test_Cases.TC_001 - Product code verification
+19.37.12.0275 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+19.37.12.0407 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+19.37.12.0522 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+19.37.12.0673 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+19.37.12.0743 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+19.37.21.0663 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+19.37.21.0726 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+19.37.27.0058 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+19.37.32.0090 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+09.21.11.0770 [main] INFO  Test_Cases.TC_001 - Test case running started
+09.21.13.0152 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+09.21.13.0345 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+09.21.15.0428 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+09.21.17.0944 [main] INFO  Test_Cases.TC_001 - UIN number verification
+09.21.17.0944 [main] INFO  Test_Cases.TC_001 - Product code verification
+09.21.17.0973 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+09.21.18.0101 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+09.21.18.0219 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+09.21.18.0287 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+09.21.18.0353 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+09.21.27.0302 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+09.21.27.0374 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+09.21.32.0691 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+09.21.37.0796 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+09.22.33.0954 [main] INFO  Test_Cases.TC_001 - Test case running started
+09.22.35.0318 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+09.22.35.0490 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+09.22.37.0638 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+09.22.41.0281 [main] INFO  Test_Cases.TC_001 - UIN number verification
+09.22.41.0281 [main] INFO  Test_Cases.TC_001 - Product code verification
+09.22.41.0307 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+09.22.41.0445 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+09.22.41.0553 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+09.22.41.0628 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+09.22.41.0715 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+09.22.50.0449 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+09.22.50.0510 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+09.22.55.0837 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+09.23.00.0941 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+09.24.45.0274 [main] INFO  Test_Cases.TC_001 - Test case running started
+09.24.47.0210 [main] INFO  Test_Cases.TC_001 - *********move to product succesfully*******
+09.24.47.0412 [main] INFO  Test_Cases.TC_001 - *********move to plans succesfully*******
+09.24.49.0684 [main] INFO  Test_Cases.TC_001 - *********click on selected plan succesfully*******
+09.24.52.0446 [main] INFO  Test_Cases.TC_001 - UIN number verification
+09.24.52.0446 [main] INFO  Test_Cases.TC_001 - Product code verification
+09.24.52.0508 [main] INFO  Test_Cases.TC_001 - **************Scroll to Name value************************
+09.24.52.0684 [main] INFO  Test_Cases.TC_001 - **************Name Entered************************
+09.24.52.0818 [main] INFO  Test_Cases.TC_001 - **************DOB Entered************************
+09.24.52.0909 [main] INFO  Test_Cases.TC_001 - **************Gender Selected************************
+09.24.53.0004 [main] INFO  Test_Cases.TC_001 - **************Staff and non staff selected************************
+09.25.01.0784 [main] INFO  Test_Cases.TC_001 - **************policy Term Selected****************
+09.25.01.0888 [main] INFO  Test_Cases.TC_001 - **************Plan Option Selected****************
+09.25.07.0275 [main] INFO  Test_Cases.TC_001 - **************premium frequency selected****************
+09.25.12.0377 [main] INFO  Test_Cases.TC_001 - **************Sum Assured Entered****************
+09.25.12.0573 [main] INFO  Test_Cases.TC_001 - **************Calculate btn click****************

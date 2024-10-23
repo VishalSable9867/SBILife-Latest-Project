@@ -6,9 +6,12 @@ import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.Date;
 import java.util.List;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -58,6 +61,7 @@ public class baseClass extends readFromProperties {
 		}
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 		driver.get(readData("URL"));
 		driver.manage().window().maximize();
 	}
@@ -144,18 +148,36 @@ public class baseClass extends readFromProperties {
 		a.clickAndHold(ele1).moveByOffset(70030000, 0).release().perform();
 	}
 	
-	public void slidermove(WebElement ele,String user,String txt)
+	public void slidermove(WebElement ele,WebElement j,String txt)
 	{
 		for(int i=0; i<=100; i++)
 		{
 			Actions a = new Actions(driver);
-			a.click(ele).dragAndDropBy(ele,i,0).perform();
-			if(txt.equals("user"))
+			a.clickAndHold(ele).dragAndDropBy(ele,i,0).perform();
+			WebElement txt1 = j;
+			String txt2 = txt1.getText();
+			if(txt.equals(txt2))
 			{
 				a.release(ele).perform();
 				break;
 			}
 		}
+	}
+	public void slideSlider(WebElement slider, WebElement frequency, WebDriver driver )
+	{
+		Actions a = new Actions(driver);
+		a.clickAndHold(slider).moveToElement(frequency).release().perform();
+	}
+	public void jsValueInsert(WebDriver driver, WebElement elm,int value1)   // to scroll the page only webelement is require not list of webelement and getter method is required
+	{
+		elm.clear();
+		JavascriptExecutor j = (JavascriptExecutor) driver;
+		j.executeScript("arguments[0].value='"+value1+"';", elm);
+	}
+	public void jsCloseWindow(WebDriver driver, WebElement elm)   // to scroll the page only webelement is require not list of webelement and getter method is required
+	{
+		JavascriptExecutor j = (JavascriptExecutor) driver;
+		j.executeScript("arguments[0].click();", elm);
 	}
 
 

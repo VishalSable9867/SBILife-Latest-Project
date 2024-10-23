@@ -1,14 +1,16 @@
 package Test_Cases;
 
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
+
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-
-import Page_Objects.FrameFirst;
 import Page_Objects.SBILife_SmartLifetimeSaver;
 import Page_Objects.homepage;
 import Page_Objects.productList;
+import Page_Objects.proposalFormEntry;
 import TestBase.baseClass;
-import utilities.dataProvider;
 
 public class TC_001 extends baseClass {
 
@@ -44,16 +46,44 @@ public class TC_001 extends baseClass {
 		String pdc=smartlife.product_code().replace("Product Code: ", "");
 		System.out.println(pdc);
 		SoftAssert s = new SoftAssert();
-		s.assertEquals(trt,"111N136V0","UIN Not matched");
+		s.assertEquals(trt,"111N055V04","UIN Not matched");
 		logger.info("UIN number verification");
-		s.assertEquals(pdc, "2Z", "Product code does not match");
+		s.assertEquals(pdc, "35", "Product code does not match");
 		logger.info("Product code verification");
 		s.assertAll();
-		logger.info("Test case execution ended");
-		//driver.navigate().to("https://www.sbilife.co.in/");
-//		FrameFirst ff = new FrameFirst(driver);
-//		switchToFrame(ff.frame12(),driver);
-		// Thread.sleep(50000);
-		// switchToFrame(ff.frame12(),driver);
+		proposalFormEntry pf = new proposalFormEntry(driver);
+		scroll(driver,pf.nameScroll());
+		logger.info("**************Scroll to Name value************************");
+		pf.First_Name("Shruti");
+		logger.info("**************Name Entered************************");
+		pf.Date_Birth("16/04/1998");
+		logger.info("**************DOB Entered************************");
+		pf.Gender(driver,"female");
+		logger.info("**************Gender Selected************************");
+		pf.staffAndNonStaff(driver,"staff");
+		logger.info("**************Staff and non staff selected************************");
+		slidermove(pf.policyTermSlider(),pf.policyTermValueMatch(),"13");
+		logger.info("**************policy Term Selected****************");
+		pf.planOptions(driver, "Endowment Option");
+		logger.info("**************Plan Option Selected****************");
+		scroll(driver,pf.policyTermScoll());
+		slideSlider(pf.premiumFrequencySlider(),pf.PremiumFrequency(driver,"Monthly SSS"),driver);
+		Thread.sleep(5000);
+		logger.info("**************premium frequency selected****************");
+		jsValueInsert(driver,pf.Sum_Assured(),78000000);
+		Thread.sleep(5000);
+		logger.info("**************Sum Assured Entered****************");
+		pf.calculate_Btn();
+		logger.info("**************Calculate btn click****************");
+		jsCloseWindow(driver,pf.close_btn());
+		pf.close_btn();
+//		logger.info("**************Close btn up****************");
+//		expilcitWait(driver,15,pf.close_popup());
+//		jsCloseWindow(driver, pf.close_popup());
+//		logger.info("**************Close Suggestion pop up****************");
+
+		Thread.sleep(3000);
+		
+		
 	}
 }
