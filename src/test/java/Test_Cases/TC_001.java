@@ -33,11 +33,11 @@ public class TC_001 extends baseClass {
 		logger.info("*********click on selected plan succesfully*******");
 		
 		productList pl = new productList(driver);
-		expilcitWait(driver,10,pl.t1(driver,"SBI Life – Shubh Nivesh"));
-		scroll(driver,pl.t1(driver,"SBI Life – Shubh Nivesh"));    
+		expilcitWait(driver,10,pl.t1(driver,"SBI Life ï¿½ Shubh Nivesh"));
+		scroll(driver,pl.t1(driver,"SBI Life ï¿½ Shubh Nivesh"));    
 		
 		expilcitWait1(driver,5,pl.product_list_select());
-		productSelection(pl.product_list_select(),"SBI Life – Shubh Nivesh");
+		productSelection(pl.product_list_select(),"SBI Life ï¿½ Shubh Nivesh");
 		
 		SBILife_SmartLifetimeSaver smartlife= new SBILife_SmartLifetimeSaver(driver);
 		
@@ -70,7 +70,7 @@ public class TC_001 extends baseClass {
 		slideSlider(pf.premiumFrequencySlider(),pf.PremiumFrequency(driver,"Monthly SSS"),driver);
 		Thread.sleep(5000);
 		logger.info("**************premium frequency selected****************");
-		jsValueInsert(driver,pf.Sum_Assured(),78000000);
+		// jsValueInsert(driver,pf.Sum_Assured(),78000000);
 		Thread.sleep(5000);
 		logger.info("**************Sum Assured Entered****************");
 		pf.calculate_Btn();

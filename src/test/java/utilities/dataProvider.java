@@ -4,10 +4,10 @@ import org.testng.annotations.DataProvider;
 
 public class dataProvider {
 	
-	@DataProvider(name="Test1")
+	@DataProvider(name="Test2")
 	public String[][] dataPassFromExcel() throws Exception
 	{
-		String path= "C:\\Users\\Admin\\eclipse-workspace\\seleniumByPawanKumar\\SBILProductJourney\\src\\test\\resources\\Data.xlsx";
+		String path= "D:\\Eclipse\\seleniumByPawanKumar\\SBILProductJourney\\src\\test\\resources\\Data.xlsx";
 		readFromExcel r = new readFromExcel(path);
 		int totalrow=r.getrowCound("Sheet1");
 		int totalcol=r.getcolCount("Sheet1",0);

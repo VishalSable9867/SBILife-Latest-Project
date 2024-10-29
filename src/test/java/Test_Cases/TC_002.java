@@ -1,55 +1,88 @@
 package Test_Cases;
 
-import java.time.Duration;
+import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+import Page_Objects.SBILife_SmartLifetimeSaver;
+import Page_Objects.homepage;
+import Page_Objects.productList;
+import Page_Objects.proposalFormEntry;
+import TestBase.baseClass;
+import utilities.dataProvider;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.interactions.Actions;
+public class TC_002 extends baseClass {
 
-public class TC_002 {
+	@Test(dataProvider="Test2", dataProviderClass=dataProvider.class)
+	public void secondcript (String planselection,String ProductName,String UIN_No,String product_code,String name, String dob,String gend,String staff_select,String term,String frequency,String amt ) throws Throwable 
+	{
+		logger.info("Test case running started");
+		
+		homepage h = new homepage(driver);
+		expilcitWait(driver, 5,h.product_Btn());
+		mouseover(driver,h.product_Btn());
+		logger.info("*********move to product succesfully*******");
+		
+		expilcitWait(driver,5,h.individual_plans());
+		mouseover(driver, h.individual_plans());
+		logger.info("*********move to plans succesfully*******");
+		
+		h.mainproductdynamicxpath(planselection,driver);
+		logger.info("*********click on selected plan succesfully*******");
+		
+		productList pl = new productList(driver);
+		expilcitWait(driver,10,pl.t1(driver,ProductName));
+		scroll(driver,pl.t1(driver,ProductName));    
+		
+		expilcitWait1(driver,5,pl.product_list_select());
+		productSelection(pl.product_list_select(),ProductName);
+		
+		SBILife_SmartLifetimeSaver smartlife= new SBILife_SmartLifetimeSaver(driver);
+		
+		String trt = smartlife.UINNo().replace("UIN: ","");
+		System.out.println(trt);
+		String pdc=smartlife.product_code().replace("Product Code: ", "");
+		System.out.println(pdc);
+		SoftAssert s = new SoftAssert();
+		s.assertEquals(trt,UIN_No,"UIN Not matched");
+		logger.info("UIN number verification");
+		s.assertEquals(pdc, product_code, "Product code does not match");
+		logger.info("Product code verification");
+		s.assertAll();
+		proposalFormEntry pf = new proposalFormEntry(driver);
+		scroll(driver,pf.nameScroll());
+		logger.info("**************Scroll to Name value************************");
+		pf.First_Name(name);
+		logger.info("**************Name Entered************************");
+		pf.Date_Birth(dob);
+		logger.info("**************DOB Entered************************");
+		pf.Gender(driver,gend);
+		logger.info("**************Gender Selected************************");
+		pf.staffAndNonStaff(driver,staff_select);
+		logger.info("**************Staff and non staff selected************************");
+	//	slidermove(pf.policyTermSlider(),pf.policyTermValueMatch(),"13");
+	//	logger.info("**************policy Term Selected****************");
+//		pf.planOptions(driver, "Endowment Option");
+//		logger.info("**************Plan Option Selected****************");
+		//scroll(driver,pf.policyTermScoll());
+	//	pf.policy_Term(term);
+	//	pf.PremiumFrequency(driver, frequency);
+		//slideSlider(pf.premiumFrequencySlider(),pf.PremiumFrequency(driver,"Monthly SSS"),driver);
+		Thread.sleep(5000);
+		logger.info("**************premium frequency selected****************");
+		pf.premium_Amount();
+		jsValueInsert(driver,pf.Sum_Assured(),amt);
+		Thread.sleep(5000);
+		logger.info("**************Sum Assured Entered****************");
+		pf.calculate_Btn();
+		logger.info("**************Calculate btn click****************");
+		jsCloseWindow(driver,pf.close_btn());
+		pf.close_btn();
+//		logger.info("**************Close btn up****************");
+//		expilcitWait(driver,15,pf.close_popup());
+//		jsCloseWindow(driver, pf.close_popup());
+//		logger.info("**************Close Suggestion pop up****************");
 
-	public static void main(String[] args) {
+		Thread.sleep(3000);
 		
-		ChromeOptions options =  new ChromeOptions();
-		options.addArguments("--disable-notifications");
-		WebDriver driver = new ChromeDriver(options);
-		driver.manage().window().maximize();
-		driver.manage().deleteAllCookies();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.get("https://www.sbilife.co.in/en/individual-life-insurance/traditional/shubh-nivesh");
-		WebElement premium = driver.findElement(By.xpath("//p[text()='Premium Frequency']"));
-		JavascriptExecutor js= (JavascriptExecutor) driver;
-		js.executeScript("arguments[0].scrollIntoView(true);", premium);
 		
-		WebElement slider = driver.findElement(By.xpath("(//div[@class='slider-handle min-slider-handle round'])[2]"));
-		WebElement frequency=driver.findElement(By.xpath("//div[normalize-space()='Monthly SI/CC']"));
-		
-		Actions a = new Actions(driver);
-		a.clickAndHold(slider).moveToElement(frequency).release().perform();
-		
-		WebElement closewindow = driver.findElement(By.xpath("//span[@id='nv_js-leadform-close-button_3481']"));
-		js.executeScript("arguments[0].click();", closewindow);
-		
-		WebElement slider2=driver.findElement(By.xpath("(//div[@class='slider-handle min-slider-handle round'])[1]"));
-		WebElement tg = driver.findElement(By.xpath("//p[text()='Policy Term']"));
-		js.executeScript("arguments[0].scrollIntoView(true);", tg);
-		for(int i=1; i<=100; i++)
-		{
-			a.clickAndHold(slider2).dragAndDropBy(slider2, i, 0).perform();
-			WebElement text1 = driver.findElement(By.xpath("(//div[@class='tooltip tooltip-main bottom in']//div)[2]"));
-			String actualtext=text1.getText();
-			if(actualtext.equals("19"))
-			{
-				a.release(slider2).perform();
-				break;
-			}
-		}
-		
-
 	}
-
 }

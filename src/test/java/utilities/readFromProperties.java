@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class readFromProperties {
 
-	String path="C:\\Users\\Admin\\eclipse-workspace\\seleniumByPawanKumar\\SBILProductJourney\\src\\test\\resources\\data.properties";
+	String path="D:\\Eclipse\\seleniumByPawanKumar\\SBILProductJourney\\src\\test\\resources\\data.properties";
 	
 	public String readData(String key) throws IOException
 	{

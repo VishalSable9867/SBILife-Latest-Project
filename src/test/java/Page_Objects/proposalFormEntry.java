@@ -13,7 +13,7 @@ public class proposalFormEntry extends mainconstructor {
 		super(driver);
 	}
 	
-	@FindBy(xpath="//p[text()='Name:']")
+	@FindBy(xpath="//p[text()='Name(Assured):']")
 	private WebElement name;
 	
 	public WebElement nameScroll()
@@ -21,15 +21,15 @@ public class proposalFormEntry extends mainconstructor {
 		return name;
 	}
 	
-	@FindBy(xpath="//input[@id='proposerName']")
+	@FindBy(xpath="//input[@id='pName']")
 	private WebElement firstname;
 	
 	public void First_Name(String value)
 	{
-		firstname.sendKeys(value);
+		 firstname.sendKeys(value);;
 	}
 	
-	@FindBy(xpath="//input[@id='birthDate2']")
+	@FindBy(xpath="//input[@id='birthDate3']")
 	private WebElement DOB;
 	
 	public void Date_Birth(String dob)
@@ -72,6 +72,12 @@ public class proposalFormEntry extends mainconstructor {
 		return policyTerm;
 	}
 	
+	public void policy_Term(String key)
+	{
+		WebElement PT=driver.findElement(By.xpath("//div[@class='slider slider-horizontal']//div[normalize-space()='"+key+"']"));
+		PT.click();
+	}
+	
 	@FindBy(xpath="(//div[@class='slider-handle min-slider-handle round'])[2]")
 	private WebElement sliderPremiumFrequency;
 	
@@ -92,7 +98,7 @@ public class proposalFormEntry extends mainconstructor {
 		optn.click();
 	}
 	
-	@FindBy(xpath="//input[@id='inputValueSumAssured']")  // to verify same premium amount is displayed in sum assured
+	@FindBy(xpath="//input[@id='prmAmtVal']")  // to verify same premium amount is displayed in sum assured
 	private WebElement sumAssured;
 	
 	public WebElement Sum_Assured()
@@ -136,5 +142,13 @@ public class proposalFormEntry extends mainconstructor {
 	public WebElement close_popup()
 	{
 		return cls;
+	}
+	
+	@FindBy(xpath="//input[@id='prmAmtVal']")
+	private WebElement premium_Amount;
+	
+	public void premium_Amount()
+	{
+		premium_Amount.click();
 	}
 }

@@ -7,13 +7,13 @@
   <test thread-count="5" name="chrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Test_Cases.TC_001">
+      <class name="Test_Cases.TC_002">
         <methods>
           <include name="Open"/>
           <include name="Close"/>
-          <include name="firstScript"/>
+          <include name="secondcript" invocation-numbers="0"/>
         </methods>
-      </class> <!-- Test_Cases.TC_001 -->
+      </class> <!-- Test_Cases.TC_002 -->
     </classes>
   </test> <!-- chrome(failed) -->
 </suite> <!-- Failed suite [Suite] -->

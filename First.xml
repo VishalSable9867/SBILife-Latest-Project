@@ -6,9 +6,9 @@
              <listener class-name="utilities.ExtentReportManager"/>
  </listeners>
   <test name="chrome" thread-count="5">
-  <parameter name="browser" value="edge"/>
+  <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="Test_Cases.TC_001"/>
+      <class name="Test_Cases.TC_002"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

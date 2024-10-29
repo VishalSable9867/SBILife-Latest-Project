@@ -168,7 +168,7 @@ public class baseClass extends readFromProperties {
 		Actions a = new Actions(driver);
 		a.clickAndHold(slider).moveToElement(frequency).release().perform();
 	}
-	public void jsValueInsert(WebDriver driver, WebElement elm,int value1)   // to scroll the page only webelement is require not list of webelement and getter method is required
+	public void jsValueInsert(WebDriver driver, WebElement elm,String value1)   // to scroll the page only webelement is require not list of webelement and getter method is required
 	{
 		elm.clear();
 		JavascriptExecutor j = (JavascriptExecutor) driver;
